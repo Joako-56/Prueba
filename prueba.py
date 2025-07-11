@@ -7,3 +7,10 @@ def mensaje():
 
 
 mensaje()
+
+
+def saludo():
+    print("Como estas?")
+
+
+saludo()
