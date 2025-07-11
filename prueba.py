@@ -18,3 +18,4 @@ saludo()
 
 print("Hola")
 print("Adios")
+print ("BYE")
